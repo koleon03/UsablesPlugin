@@ -1,0 +1,29 @@
+name: Usables
+version: 1.0-SNAPSHOT
+main: de.koleon03.usables.usables.Usables
+api-version: 1.13
+commands:
+  nd:
+    usage: /nd
+    description: Sets the time to 0 and the weather to clear
+  fly:
+    usage: /fly
+    description: Allows you to fly
+  sfly:
+    usage: /sfly
+    description: Gives you an elytra to fly in Survival Mode
+  ec:
+    usage: /ec
+    description: Opens your enderchest
+  kit:
+    usage: /kit
+    description: Gives you certain kits
+  heal:
+    usage: /heal <player>
+    description: Heals a certain player
+  feed:
+    usage: /feed <player>
+    description: Feeds a certain player
+  clearlag:
+    usage: /clearlag
+    description: Clears Lag

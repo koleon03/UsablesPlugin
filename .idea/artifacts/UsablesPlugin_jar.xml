@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UsablesPlugin:jar">
+    <output-path>$USER_HOME$/Desktop/test Server/plugins</output-path>
+    <root id="archive" name="UsablesPlugin.jar">
+      <element id="module-output" name="UsablesPlugin" />
+    </root>
+  </artifact>
+</component>
